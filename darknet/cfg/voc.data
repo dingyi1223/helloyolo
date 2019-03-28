@@ -1,6 +1,0 @@
-classes= 20
-train  = /home/zufall/darknet/VOC/train.txt
-valid  = /home/zufall/darknet/VOC/2007_test.txt
-names = data/voc.names
-backup = backup
-
