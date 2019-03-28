@@ -32,7 +32,7 @@
 
 
 # 环境配置
-### darknet下载安装:
+### darknet下载:
 [官网](https://pjreddie.com/darknet/yolo)
 
 ```
