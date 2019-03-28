@@ -1,11 +1,13 @@
 # helloyolo
 新手小白的第一次记录。
 
-这是项目 [helloyolo](https://github.com/dingyi1223/helloyolo) ，欢迎访问。
+- 这是项目 [helloyolo](https://github.com/dingyi1223/helloyolo) ，欢迎访问。
 
-这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
+- 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
 平台都有客户端工具可以访问。虽然版本库只提供Git一种格式，
 但是你还是可以用其他用其他工具访问，如 ``svn`` 和 ``hg`` 。
+
+- 使用darknet框架
 
 ### 步骤
 - [x] 环境配置
