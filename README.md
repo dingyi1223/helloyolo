@@ -1,6 +1,9 @@
 # helloyolo
 新手小白的第一次记录。
 
+基于darknet框架，https://github.com/pjreddie/darknet
+
+
 - 这是项目 [helloyolo](https://github.com/dingyi1223/helloyolo) ，欢迎访问。
 
 - 这个项目的版本库是 **Git格式** ，在 Windows、Linux、Mac OS X
