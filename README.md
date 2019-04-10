@@ -64,6 +64,8 @@ make
 
 - 需要修改cfg/voc.data中train的路径：`train  = <path-to-voc>/train.txt`
 - 如果需要把终端信息记录到文件，使用命令`| tee train_log.txt`
+- 训练过程可视化：[train_log_visualization.py](https://github.com/dingyi1223/helloyolo/edit/master/train_log_visualization.py)，参考:https://blog.csdn.net/yudiemiaomiao/article/details/72469135,
+https://blog.csdn.net/oTengYue/article/details/81365185
 - 训练好的weights文件保存在backup文件夹中
 - 直接下载训练好的weights,[yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
 
